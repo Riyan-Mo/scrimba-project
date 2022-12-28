@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    background-image: url(https://www.shutterstock.com/image-vector/sports-background-design-abstract-modern-260nw-2071798712.jpg);
+    background-size: cover;
 }
 
 .container {
